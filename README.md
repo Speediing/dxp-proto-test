@@ -9,7 +9,7 @@ Starter site for Kenvue Digital Experience Platform.
 
 `npm i && npm run build && npm run serve`
 Visit site on `localhost:9000`
-asdfasdfasdf
+asdfasdfasdfasdf
 
 ### Running Stackbit
 
