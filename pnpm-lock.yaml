@@ -149,6 +149,7 @@ importers:
       '@bodiless/vital-link': ^1.0.0-rc.25
       '@bodiless/vital-navigation': ^1.0.0-rc.25
       '@bodiless/vital-templates': ^1.0.0-rc.25
+      '@types/node': ^18.15.0
       lodash: ^4.17.19
       tailwindcss: ^3.0.23
     dependencies:
@@ -164,6 +165,8 @@ importers:
       '@bodiless/vital-templates': 1.0.0-rc.25
       lodash: 4.17.21
       tailwindcss: 3.2.7
+    devDependencies:
+      '@types/node': 18.15.0
 
   sites/__dxp__:
     specifiers:
@@ -193,6 +196,7 @@ importers:
       '@bodiless/vital-test': ^1.0.0-rc.25
       '@bodiless/webpack': ^1.0.0-rc.25
       '@statoscope/webpack-plugin': ^5.20.1
+      '@types/node': ^18.15.0
       autoprefixer: ^10.4.2
       copyfiles: ^2.1.1
       cross-env: ^5.2.0
@@ -269,6 +273,7 @@ importers:
     devDependencies:
       '@babel/plugin-proposal-decorators': 7.21.0_@babel+core@7.21.0
       '@statoscope/webpack-plugin': 5.25.1
+      '@types/node': 18.15.0
       copyfiles: 2.4.1
       cross-env: 5.2.1
       gatsby-plugin-compile-es6-packages: 1.2.0_gatsby@4.25.5

@@ -28,12 +28,12 @@ init_npmrc () {
 
 default_prepare_build () {
   init_npmrc
-  npm ci
-  npm run bootstrap
+  pnpm ci
+  pnpm run bootstrap
 }
 
 default_build () {
-  npm run build
+  pnpm run build
 }
 
 set_bodiless_psh_dir() {
